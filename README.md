@@ -1,4 +1,5 @@
-## Hi there 👋
+💻Core Stack: Java, C#. Primarily focused on Backend. 
+🔥Interested in Fintech & Mobile
 
 <!--
 **dmitry7997/dmitry7997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
